@@ -1,0 +1,23 @@
+﻿date,product,region,salesperson,units_sold,revenue,cost,returns
+5/01/2024,Widget A,North,Alice,45,2250,1350,2
+8/01/2024,Widget B,South,Bob,30,1800,900,0
+12/01/2024,Widget A,East,Carol,52,2600,1560,3
+15/01/2024,Widget C,West,Dave,18,2160,1080,1
+19/01/2024,Widget B,North,Alice,41,2460,1230,0
+22/01/2024,Widget A,South,Bob,38,1900,1140,2
+28/01/2024,Widget C,East,Carol,22,2640,1320,0
+3/02/2024,Widget A,West,Dave,55,2750,1650,1
+7/02/2024,Widget B,North,Alice,33,1980,990,3
+11/02/2024,Widget C,South,Bob,27,3240,1620,0
+14/02/2024,Widget A,East,Carol,48,2400,1440,2
+18/02/2024,Widget B,West,Dave,36,2160,1080,1
+22/02/2024,Widget C,North,Alice,19,2280,1140,0
+26/02/2024,Widget A,South,Bob,61,3050,1830,4
+2/03/2024,Widget B,East,Carol,44,2640,1320,0
+6/03/2024,Widget C,West,Dave,23,2760,1380,1
+10/03/2024,Widget A,North,Alice,57,2850,1710,2
+14/03/2024,Widget B,South,Bob,28,1680,840,0
+18/03/2024,Widget A,East,Carol,43,2150,1290,1
+22/03/2024,Widget C,West,Dave,31,3720,1860,2
+26/03/2024,Widget B,North,Alice,39,2340,1170,0
+30/03/2024,Widget A,South,Bob,52,2600,1560,3
